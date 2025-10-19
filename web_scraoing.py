@@ -41,19 +41,3 @@ df.to_csv('web_scraping.csv')
 
 
 
-
-# response.status_code
-
-
-# print(titles)
-
-
-
-
-# print(description)
-
-
-
-# df.to_csv('web_scraping.csv')
-
-
